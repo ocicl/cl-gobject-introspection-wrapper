@@ -1,0 +1,10 @@
+* cl-gobject-introspection-wrapper
+
+Wrap and call GObject Introspection FFI function in LISP style.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bohonghuang/cl-gobject-introspection-wrapper.git   |
+| commit  | 2d197cb  |
+| systems | cl-gobject-introspection-wrapper |
+|---------+-------------------------------------------|
+
